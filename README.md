@@ -2,9 +2,9 @@
 
 Bu proje, bir e-ticaret platformunun satış verilerini analiz ederek müşteri davranışlarını anlamlandırmayı ve makine öğrenmesi yöntemiyle müşteri segmentasyonu gerçekleştirmeyi amaçlayan bir veri bilimi dönem projesidir. Proje sürecinde yapay zeka kodlama asistanlarından "vibe coding" yaklaşımı ile birincil geliştirme ortağı olarak yararlanılmıştır.
 
-## 👥 Proje Ekibi Bilgileri
-* **Öğrenci Numarası:** [Kendi Öğrenci Numaranı Yaz]
-* **Adı Soyadı:** [Kendi Adını Soyadını Yaz]
+## Proje Ekibi Bilgileri
+* **Öğrenci Numarası:** 1306230099
+* **Adı Soyadı:** Musa Semih Büyüközkan
 * **Üniversite / Bölüm:** İstanbul Üniversitesi - Cerrahpaşa / Bilgisayar Mühendisliği
 
 ## 🛠️ Kullanılan Kütüphaneler
